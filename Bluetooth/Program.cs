@@ -6,7 +6,7 @@ namespace Bluetooth
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome To Bluetooth Server");
         }
     }
 }
